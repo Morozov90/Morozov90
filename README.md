@@ -2,13 +2,11 @@
 
 Senior Software Engineer based in **📍 Vancouver, BC, Canada**. I’ve been building front-end and back-end software for **8+ years**, with a focus on scalable, accessible products and clear UX.
 
-✨ This repo powers my [**GitHub profile**](https://github.com/Morozov90) (`README.md` shows at the top of [github.com/Morozov90](https://github.com/Morozov90)).
-
 ### 💼 Now
 
 **Senior Software Engineer @ [Remitly](https://www.remitly.com/)** — Identity & Trust (Nov 2025 – present): KYC flows and secure identity verification across **web and mobile**.
 
-**🛠️ Stack:** React, React Native, TypeScript, GraphQL, Go, Kotlin, Expo
+**🛠️ Stack (current):** React, React Native, TypeScript, GraphQL, Go, Kotlin, Expo
 
 ### 🔗 Links
 
@@ -28,7 +26,19 @@ Senior Software Engineer based in **📍 Vancouver, BC, Canada**. I’ve been bu
 
 ### 🧰 What I work with
 
-React, React Native, TypeScript, Node.js, Next.js, GraphQL, testing (Jest, Testing Library, Playwright, Cypress), and shipping in CI/CD–heavy environments.
+**Languages:** TypeScript, JavaScript, Kotlin, Go  
+
+**Frontend & mobile:** React, React Native, Next.js, Redux, Zustand, Redux-Saga, React Query, Expo, Vite, Storybook, Material UI, Formik, Knockout.js  
+
+**Backend & APIs:** Node.js, Nest.js, Express, GraphQL, Kraken.js  
+
+**Testing:** Jest, React Testing Library, Playwright, Cypress  
+
+**Platform & delivery:** Nx, Docker, Jenkins, GitLab CI/CD, Azure DevOps, Linux  
+
+**Observability & analytics:** Sentry, Amplitude  
+
+**Other:** RxJS, Highcharts, MetaMask / web3 (past projects), Figma
 
 ---
 
